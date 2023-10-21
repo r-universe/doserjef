@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "spAbundance"]
+	path = spAbundance
+	url = https://github.com/doserjef/spabundance
 [submodule "spOccupancy"]
 	path = spOccupancy
 	url = https://github.com/doserjef/spoccupancy
